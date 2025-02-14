@@ -1,0 +1,4 @@
+1, 需要安装Java Runtime Environment.
+2, click RQDA.bat to launch the programme
+
+

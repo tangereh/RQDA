@@ -1,0 +1,39 @@
+%and%                   Binary operations of some types of RQDA objects
+RQDA-package            R-based Qualitative Data Analysis package
+RQDAQuery               Execute a SQL statement on the open *.rqda
+                        file.
+RQDATables              Data Tables in rqda file
+and                     Boolean operation on codings.
+casesCodedByAnd         Get cases coded by specific codes, by
+                        specifying the code IDs.
+codingBySearch          Auto-coding by pattern matching
+crossCodes              Inter-codes relationship
+exportCodedFile         exported a coded file to HTML file
+exportCodings           Export codings to a HTML file.
+filesByCodes            Relation between files and codes.
+filesCodedByAnd         Get files coded by specific codes, by
+                        specifying the code IDs.
+getAttr                 attributes
+getCases                Get the Case ID and Case Name.
+getCodingTable          Get the information of codings
+getCodingsByOne         Return codings of one code.
+getFileIdSets           Get file id from sets.
+getFiles                Get the ids or names of files list
+getMemos                Collection of code memos
+gselect.list            Select Items from a List
+list.deleted            Functions for dealing with the temporarily
+                        deleted data
+nCodedByTwo             Show the relationship between *codedBy using a
+                        matrix.
+openProject             Open and close project.
+queryFiles              Retrieval of file names according to their
+                        codings.
+relation                Relation between two codings
+retrieval               Retrieval of codings conditional on the file
+                        id.
+searchFiles             Search files
+summaryCodings          Summary of codings
+viewPlainFile           View the file content of the selected file in
+                        File Widget without displaying the codings and
+                        annotations etc.
+write.FileList          Import a batch of files to the source table
